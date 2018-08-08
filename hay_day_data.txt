@@ -1,0 +1,292 @@
+Wheat               3 (10 - 36)         1       2min        N/A
+Corn                7 (10 - 72)         2       5min        N/A
+Soybean             10 (10 - 108)       5       20min       N/A
+Sugarcane           14 (10 - 144)       7       30min       N/A
+Carrot              7 (10 - 72)         9       10min       N/A
+Indigo              25 (10 - 252)       13      2h          N/A
+Pumpkin             32 (10 - 324)       15      3h          N/A
+Cotton              28 (10 - 288)       18      2h30min     N/A
+Chili Pepper        36 (10 - 360)       25      4h          N/A
+Tomato              43 (10 - 432)       30      6h          N/A
+Strawberry          50 (10 - 504)       34      8h          N/A
+Potato              36 (10 - 360)       35      3h40min     N/A
+Rice                18 (10 - 180)       56      45min       N/A
+Lettuce             32 (10 - 324)       58      3h30min     N/A
+Sunflower           21 (10 - 216)       63      1h30min     N/A
+Onion               39 (10 - 396)       68      5h          N/A
+Tea Leaf            43 (10 - 432)       80      6h30min     N/A
+Peony               36 (10 - 360)       82      4h          N/A
+Grape               32 (10 - 324)       84      3h          N/A
+Raspberry           46 (10 - 468)       19      18h         N/A
+Blackberry          82 (10 - 824)       26      1d8h        N/A
+Coffee Bean         64 (10 - 648)       42      1d          N/A
+Apple               39 (10 - 396)       15      16h         N/A
+Cherry              68 (10 - 684)       22      1d13h       N/A
+Cacao               86 (10 - 864)       36      1d11h       N/A
+Honeycomb           68 (10 - 684)       39      35min       N/A
+Olive               82 (10 - 828)       57      1d          N/A
+Lemon               93 (10 - 936)       66      1d5h        N/A
+Orange              97 (10 - 972)       71      1d7h        N/A
+Peach               100 (10 - 1008)     76      1d6h        N/A
+Banana              104 (10 - 1044)     88      1d3h        N/A
+Axe                 36 (10 - 360)       1       N/A         N/A
+Saw                 54 (10 - 540)       1       N/A         N/A
+Land Deed           403 (10 - 4036)     1       N/A         N/A
+Marker Stake        403 (10 - 4036)     1       N/A         N/A
+Mallet              403 (10 - 4036)     1       N/A         N/A
+Map Piece           450 (10 - 4500)     34      N/A         N/A
+Dynamite            25 (10 - 250)       1       N/A         N/A
+TNT Barrel          72 (10 - 720)       1       N/A         N/A
+Shovel              108 (10 - 1080)     1       N/A         N/A
+Brick               342 (10 - 3420)     34      N/A         N/A
+Hammer              342 (10 - 3420)     34      N/A         N/A
+Hand Drill          342 (10 - 3420)     34      N/A         N/A
+Paint Bucket        342 (10 - 3420)     34      N/A         N/A
+Stone Block         342 (10 - 3420)     34      N/A         N/A
+Tar Bucket          342 (10 - 3420)     34      N/A         N/A
+Bolt                270 (10 - 2700)     1       N/A         N/A
+Tape                270 (10 - 2700)     1       N/A         N/A
+Nail                270 (10 - 2700)     1       N/A         N/A
+Plank               270 (10 - 2700)     1       N/A         N/A
+Screw               270 (10 - 2700)     1       N/A         N/A
+Panel               270 (10 - 2700)     1       N/A         N/A
+Bakery              20 (10 - N/A)       2       10s         N/A
+Bread               21 (10 - 216)       2       5min        4min
+Corn Bread          72 (10 - 720)       7       30min       25min
+Cookie              104 (10 - 1044)     10      1h          51min
+Raspberry Muffin    140 (10 - 1404)     19      45min       38min
+Blackberry Muffin   226 (10 - 2268)     26      45min       38min
+Pizza               190 (10 - 1908)     33      15min       12min
+Spicy Pizza         226 (10 - 2268)     37      15min       12min
+Potato Bread        284 (10 - 2844)     39      45min       38min
+Frutti Di Mare Pizza  403 (10 - 4032)   45      15min       12min
+Banana Bread        424 (10 - 4248)     91      30min       25min
+Feed Mill           5/3000 (10 - N/A)   3&12    40s         N/A
+Chicken Feed        7 (10 - 72)         3       5min        4min
+Cow Feed            14 (10 - 144)       6       10min       8min
+Pig Feed            14 (14 - 144)       10      20min       17min
+Sheep Feed          14 (10 - 144)       16      30min       25min
+Goat Feed           14 (10 - 144)       32      40min       34min
+Wheat Bundle        50 (10 - 504)       3(Town) 1h30min     1h16min
+Dairy               50 (10 - N/A)       6       2h          N/A
+Cream               50 (10 - 504)       6       20min       17min
+Butter              82 (10 - 824)       9       30min       25min
+Cheese              122 (10 - 1224)     12      1h          51min
+Goat Cheese         162 (10 - 1620)     33      1h30min     1h16min
+Sugar Mill          350 (10 - N/A)      7       6h          N/A
+Brown Sugar         32 (10 - 324)       7       20min       17min
+White Sugar         50 (10 - 504)       13      40min       34min
+Syrup               90 (10 - 900)       18      1h30min     1h16min
+Popcorn Pot         650 (10 - N/A)      8       8h          N/A
+Popcorn             32 (10 - 324)       8       30min       25min
+Buttered Popcorn    126 (10 - 1260)     16      1h          51min
+Chili Popcorn       122 (10 - 1224)     25      2h          1h42min
+Honey Popcorn       360 (10 - 3600)     40      1h30min     1h16min
+Chocolate Popcorn   248 (10 - 2484)     44      2h30min     2h7min
+BBQ Grill           730 (10 - N/A)      9       8h          N/A
+Pancake             108 (10 - 1080)     9       30min       25min
+Bacon And Eggs      201 (10 - 2016)     11      1h          51min
+Hamburger           180 (10 - 1800)     18      2h          1h42min
+Fish Burger         226 (10 - 2268)     27      2h          1h42min
+Roasted Tomatoes    118 (10 - 118)      30      1h30        1h16
+Baked Potato        298 (10 - 2988)     35      35min       29min
+Fish And Chips      244 (10 - 2448)     41      1h30min     1h16min
+Lobster Skewer      417 (10 - 4176)     48      40min       34min
+Grilled Onion       190 (10 - 1908)     68      1h          51min
+Banana Pancakes     352 (10 - 3528)     94      1h          51min
+Pie Oven            2200 (10 - N/A)     14      14          N/A
+Carrot Pie          82 (10 - 828)       14      1h          51min
+Pumpkin Pie         158 (10 - 1584)     15      2h          1h42min
+Bacon Pie           219 (10 - 2196)     18      3h          2h33min
+Apple Pie           270 (10 - 2700)     28      2h30min     2h17min
+Fish Pie            226 (10 - 2268)     28      2h          1h42min
+Feta Pie            223 (10 - 2232)     34      1h30min     1h16min
+Casserole           367 (10 - 3672)     36      2h          1h42min
+Shepherd's Pie       280 (10 - 2808)    39      1h40min     1h25min
+Lemon Pie           446 (10 - 4464)     67      2h15min     1h54min
+Peach Tart          435 (10 - 4356)     76      2h30min     2h7min
+Loom                3200 (10 - N/A)     17      1d          N/A
+Sweater             151 (10 - 1512)     17      2h          1h42min
+Cotton Fabric       108 (10 - 1080)     18      30min       25min
+Blue Wooly Hat      111 (10 - 1116)     19      1h          51min
+Blue Sweater        208 (10 - 2088)     20      3h          2h33min
+Red Scarf           288 (10 - 2880)     48      2h30min     2h7min
+Flower Shawl        295 (10 - 2952)     71      1h30min     1h16min
+Sewing Machine      4500 (10 - N/A)     19      20h         N/A
+Cotton Shirt        241 (10 - 2412)     19      45min       38min
+Wooly Chaps         309 (10 - 3096)     21      1h30min     1h16min
+Violet Dress        327 (10 - 3276)     25      2h15min     1h54min
+Pillow              676 (10 - 6760)     51      3h          2h33min
+Blanket             1098 (10 - 10980)   59      3h30min     2h58min
+Cake Oven           12100 (10 - N/A)    21      1d          N/A
+Carrot Cake         165 (10 - 1656)     21      1h30min     1h16min
+Cream Cake          219 (10 - 2196)     23      3h          2h33min
+Red Berry Cake      255 (10 - 2556)     23      1h          51min
+Cheesecake          284 (10 - 2844)     24      4h          3h24min
+Strawberry Cake     316 (10 - 3168)     35      3h          2h33min
+Chocolate Cake      320 (10 - 3204)     36      2h          1h42min
+Potato Feta Cake    309 (10 - 3096)     38      2h          1h42min
+Honey Apple Cake    482 (10 - 4824)     42      3h20min     2h50min
+Lemon Cake          896 (10 - 8964)     68      2h30min     2h7min
+Fruit Cake          450 (10 - 4500)     89      3h          2h33min
+Mine                21000 (10 - N/A)    24      1d11h       N/A
+Silver Ore          18 (10 - 180)       24      N/A         N/A
+Gold Ore            21 (10 - 216)       24      N/A         N/A
+Platinum Ore        32 (10 - 324)       25      N/A         N/A
+Coal Ore            10 (10 - 108)       33      N/A         N/A
+Iron Ore            14 (10 - 144)       34      N/A         N/A
+Smelter             12.5k/22k/31.5k/41k/50.5k (10 - N/A)    24      18h     N/A
+Silver Bar          147 (10 - 1476)     24      8h          6h48min
+Gold Bar            180 (10 - 1800)     25      12h         10h12min
+Platinum Bar        205 (10 - 2050)     25      16h         13h26min
+Refined Coal        108 (10 - 1080)     33      6h          5h6min
+Iron Bar            129 (10 - 1296)     34      7h          5h57min
+Juice Press         31000 (10 - N/A)    26      1d8h        N/A
+Carrot Juice        46 (10 - 468)       26      30min       25min
+Apple Juice         129 (10 - 1296)     28      2h          1h42min
+Cherry Juice        216 (10 - 2160)     30      2h30min     2h7min
+Tomato Juice        162 (10 - 1620)     31      1h30min     1h16min
+Berry Juice         205 (10 - 2052)     31      3h          2h33min
+Orange Juice        234 (10 - 2340)     71      2h          1h42min
+Grape Juice         104 (10 - 1044)     84      2h30min     2h7min
+Lure Workbench      0 (10 - N/A)     27      N/A         N/A
+Red Lure            0 (10 - N/A)        27      1h30min     1h16min
+Green Lure          0 (10 - N/A)        27      1h15min     1h3min
+Blue Lure           0 (10 - N/A)        27      1h          51min
+Purple Lure         0 (10 - N/A)        27      45min       38min
+Gold Lure           0 (10 - N/A)        27      30min       25min
+Ice Cream Maker       38000 (10 - N/A)  29      1d7h        N/A
+Vanilla Ice Cream     172 (10 - 1728)   29      2h          1h42min
+Cherry Popsicle       352 (10 - 3528)   33      3h          2h33min
+Strawberry Ice Cream  331 (10 - 3312)   34      4h          3h24min
+Chocolate Ice Cream   342 (10 - 3420)   39      2h30min     2h7min
+Orange Sorbet         399 (10 - 3996)   78      3h30min     2h58min
+Peach Ice Cream       450 (10 - 4500)   83      3h          2h33min
+Banana Split          403 (10 - 4032)   86      3h30min     2h58min
+Net Maker           28000 (10 - N/A)    30      2d          N/A
+Fishing Net         0 (10 - N/A)        30      4h          3h24min
+Mystery Net         0 (10 - N/A)        30      3h          2h33min
+Lobster Trap        0 (10 - N/A)        44      2h          1h42min
+Duck Trap           0 (10 - N/A)        50      1h          51min
+Jam Maker           59000 (10 - N/A)    35      1d12h       N/A
+Apple Jam           219 (10 - 2196)     35      6h          5h6min
+Raspberry Jam       252 (10 - 2520)     36      7h          5h57min
+Blackberry Jam      388 (10 - 3888)     37      8h          6h48min
+Cherry Jam          334 (10 - 3348)     38      7h          5h57min
+Strawberry Jam      270 (10 - 2700)     50      7h30min     6h22min
+Marmalade           457 (10 - 4572)     74      8h30min     7h13min
+Peach Jam           464 (10 - 4644)     79      8h          6h48min
+Grape Jam           162 (10 - 1620)     85      6h30min     5h30min
+Jeweler             68000 (10 - N/A)    38      1d12h       N/A
+Bracelet            514 (10 - 5148)     38      2h          1h42min
+Necklace            727 (10 - 7272)     39      3h          2h33min
+Diamond Ring        824 (10 - 8244)     40      4h          3h24min
+Iron Bracelet       658 (10 - 6588)     41      1h30min     1h16min
+Flower Pendant      696 (10 - 6984)     98      1h          51min
+Honey Extractor     35000 (10 - N/A)    39      1d          N/A
+Honey               154 (10 - 1548)     39      20min       17min
+Beeswax             234 (10 - 2340)     48      45min       38min
+Coffee Kiosk        75000 (10 - N/A)    42      1d11h       N/A
+Espresso            248 (10 - 2484)     42      5min        4min
+Caffe Latte         219 (10 - 2196)     43      10min       8min
+Caffe Mocha         291 (10 - 2916)     45      15min       12min
+Raspberry Mocha     259 (10 - 2592)     46      30min       25min
+Hot Chocolate       316 (10 - 3168)     47      25min       21min
+Caramel Latte       345 (10 - 3456)     62      15min       12min
+Iced Banana Latte   277 (10 - 2772)     88      20min       17min
+Lobster Pool        80k/45k/52.5k/63.8k/79.8k/102k (10 - N/A)   44  2d/12h/14h/16h/18h/20h  N/A
+Lobster Tail        201 (10 - 2016)     44      6h          N/A
+Soup Kitchen        115000 (10 - N/A)   46      1d12h       N/A
+Lobster Soup        612 (10 - 6120)     46      2h30min     2h7min
+Tomato Soup         478 (10 - 4788)     47      1h30min     1h16min
+Pumpkin Soup        392 (10 - 3924)     49      2h          1h42min
+Fish Soup           298 (10 - 2988)     53      3h          2h33min
+Onion Soup          327 (10 - 3276)     72      2h30min     1h42min
+Noodle Soup         432 (10 - 4320)     73      2h          1h42min
+Potato Soup         255 (10 - 2556)     78      2h30min     2h7min
+Candle Machine      118000 (10 - N/A)   48      1d14h       N/A
+Strawberry Candle   370 (10 - 3708)     48      2h          1h42min
+Raspberry Candle    360 (10 - 3600)     52      1h45min     1h29min
+Lemon Candle        457 (10 - 4572)     72      2h15min     1h54min
+Floral Candle       442 (10 - 4428)     95      2h          1h42min
+Flower Shop         120000 (10 - N/A)   49      1d15h       N/A
+Rustic Bouquet      208 (10 - 2088)     49      45min       38min
+Bright Bouquet      338 (10 - 3384)     65      20min       17min
+Candy Bouquet       554 (10 - 5544)     90      20min       17min
+Soft Bouquet        298 (10 - 2988)     93      30min       25min
+Duck Salon          90k/51k/59k/72k/90k/115k (10 - N/A) 50  2d5h/13h30min/16h/18h/20h30min/22h30min N/A
+Duck Feather        140 (10 - 1404)     50      3h          N/A
+Candy Machine       120000 (10 - N/A)   51      1d          N/A
+Caramel Apple       255 (10 - 2556)     51      2h          1h42min
+Toffee              176 (10 - 1764)     52      1h30min     1h16min
+Chocolate           460 (10 - 4608)     54      20h         17h
+Lollipop            342 (10 - 3420)     57      12h         10h12min
+Jelly Bean          684 (10 - 6840)     60      24h         20h24min
+Sauce Maker         135000 (10 - N/A)   54      1d16h       N/A
+Soy Sauce           154 (10 - 1548)     54      3h          2h33min
+Olive Oil           277 (10 - 2772)     60      45min       38min
+Mayonnaise          367 (10 - 3672)     62      15min       12min
+Olive Dip           468 (10 - 4680)     66      45min       38min
+Lemon Curd          378 (10 - 3780)     66      25min       21min
+Tomato Sauce        230 (10 - 2304)     69      30min       25min
+Salsa               252 (10 - 2520)     77      20min       17min
+Sushi Bar           150000 (10 - N/A)   56      1d20h       N/A
+Sushi Roll          489 (10 - 4896)     56      1h          51min
+Lobster Sushi       637 (10 - 6372)     59      1h          51min
+Egg Sushi           550 (10 - 5508)     63      2h          1h42min
+Big Sushi Roll      648 (10 - 6480)     76      1h30min     1h16min
+Salad Bar           165000 (10 - N/A)   58      2d          N/A
+Feta Salad          745 (10 - 7452)     58      1h30min     1h16min
+BLT Salad           723 (10 - 7236)     62      1h45min     1h29min
+Seafood Salad       763 (10 - 7632)     64      2h          1h42min
+Pasta Salad         759 (10 - 7596)     67      2h30min     2h7min
+Veggie Platter      266 (10 - 2664)     74      2h          1h42min
+Summer Rolls        316 (10 - 3168)     78      1h          51min
+Fruit Salad         597 (10 - 5976)     82      3h          2h33min
+Summer Salad        554 (10 - 5554)     84      3h          2h33min
+Sandwich Bar        180000 (10 - N/A)   61      2d4h        N/A
+Veggie Bagel        532 (10 - 5328)     61      40min       34min
+Bacon Toast         648 (10 - 6480)     65      1h40min     1h25min
+Egg Sandwich        583 (10 - 5832)     66      1h20min     1h8min
+Honey Toast         255 (10 - 2556)     69      1h          51min
+Onion Melt          417 (10 - 4176)     84      1h30min     1h16min
+Goat Cheese Toast   302 (10 - 3024)     92      50min       42min
+Smoothie Mixer      220000 (10 - N/A)   64      3d          N/A
+Berry Smoothie      547 (10 - 5472)     64      1h15min     1h3min
+Green Smoothie      320 (10 - 3204)     66      45min       38min
+Yogurt Smoothie     349 (10 - 3492)     70      1h          51min
+Mixed Smoothie      504 (10 - 5040)     88      30min       25min
+Cocoa Smoothie      511 (10 - 5112)     100     40min       34min
+Plum Smoothie       522 (10 - 5220)     102     35min       29min
+Pasta Maker         400000 (10 - N/A)   67      3d7h        N/A
+Fresh Pasta         43 (10 - 432)       67      15min       12min
+Rice Noodles        100 (10 - 1008)     73      20min       17min
+Hat Maker           260000 (10 - N/A)   70      3d3h        N/A
+Cloche Hat          468 (10 - 4680)     70      2h          1h42min
+Top Hat             619 (10 - 6192)     72      3h30min     2h58min
+Sun Hat             558 (10 - 5580)     74      2h30min     2h7min
+Flower Crown        331 (10 - 3312)     86      2h          1h42min
+Pasta Kitchen       550000 (10 - N/A)   72      3d12h       N/A
+Gnocchi             475 (10 - 4752)     72      1h20min     1h8min
+Veggie Lasagna      532 (10 - 5328)     74      1h40min     1h25min
+Lobster Pasta       637 (10 - 6372)     79      2h          1h42min
+Pasta Carbonara     410 (10 - 4104)     83      2h30min     2h7min
+Spicy Pasta         576 (10 - 5760)     87      1h30min     1h16min
+Hot Dog Stand       650000 (10 - N/A)   75      3d16h       N/A
+Hot Dog             370 (10 - 3708)     75      30min       25min
+Tofu Dog            367 (10 - 3672)     76      45min       38min
+Corn Dog            529 (10 - 5292)     78      1h          51min
+Onion Dog           306 (10 - 3060)     90      1h15min     1h3min
+Taco Kitchen        700000 (10 - N/A)   77      3d18min     N/A
+Taco                396 (10 - 3960)     77      45min       38min
+Fish Taco           392 (10 - 3924)     79      1h30min     1h16min
+Quesadilla          241 (10 - 2412)     82      1h          51min
+Nachos              432 (10 - 4320)     87      1h15min     1h3min
+Tea Stand           750000 (10 - N/A)   80      3d23h       N/A
+Green Tea           241 (10 - 2412)     80      30min       25min
+Milk Tea            190 (10 - 1908)     81      45min       38min
+Honey Tea           313 (10 - 3132)     83      40min       34min
+Lemon Tea           241 (10 - 2412)     86      20min       17min
+Orange Tea          255 (10 - 2556)     89      40min       34min
+Iced Tea            252 (10 - 2520)     92      30min       25min
+Mint Tea            255 (10 - 2556)     97      35min       29min
